@@ -1,0 +1,7 @@
+urls:
+  authUrl: 'https://petstore.swagger.io/oauth/authorize'
+  petStoreApiUrl: 'https://petstore.swagger.io/v2/'
+credentials:
+  # username: password
+  test: "abc123"
+
